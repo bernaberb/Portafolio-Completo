@@ -19,5 +19,5 @@ Este repositorio funciona como un índice de los proyectos que voy realizando en
  ### Web
  
  - [Punto Limpio](https://github.com/bernaberb/Punto-Limpio-Web): sencillo sitio web realizado para una organización de mi ciudad. [_Link a la web_](http://www.puntolimpiomiramar.com.ar)
- - 
+
    _Herramientas: HTML, CSS, JS, Bootstrap_
