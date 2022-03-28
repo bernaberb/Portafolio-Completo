@@ -9,7 +9,7 @@ Este repositorio funciona como un índice de los proyectos que voy realizando en
 
 - [Análisis de datos y modelo predictivo para recursos humanos](https://github.com/bernaberb/ML-Recursos-Humanos/blob/main/Data_Recursos_Humanos.ipynb): primero, visualizaremos un dataset de empleados ficticios de una empresa. Luego haremos análisis previos y luego entrenaremos y aplicaremos un modelo que con Machine Learning nos permita detectar cuando un empleado tiene alta probabilidad de renunciar a la empresa.
 
-  _Herramientas: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn_
+  _Herramientas: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, diferentes modelos de Machine Learning_
 
 - [Bot de accidentes aéreos](https://github.com/bernaberb/Bot-Accidentes-Aviacion/blob/main/Aviation_Accidents_Bot.ipynb): usando una base de datos de accidentes aéreos, se analiza si alguno ocurrió un día como hoy de años anteriores y envía un tweet con información al respecto. [_Link al twitter._](https://twitter.com/AirAccidentsBot)
 
