@@ -7,7 +7,7 @@ Este repositorio funciona como un índice de los proyectos que voy realizando en
 
 ### Data Analysis / Data Visualisation / Machine Learning
 
-- [Análisis de datos y modelo predictivo para recursos humanos](https://github.com/bernaberb/ML-Recursos-Humanos/blob/main/Data_Recursos_Humanos_ML.ipynb): primero, visualizaremos un dataset de empleados ficticios de una empresa. Luego haremos análisis previos y luego entrenaremos y aplicaremos un modelo que con Machine Learning nos permita detectar cuando un empleado tiene alta probabilidad de renunciar a la empresa.
+- [Análisis de datos y modelo predictivo para recursos humanos](https://github.com/bernaberb/ML-Recursos-Humanos/blob/main/Data_Recursos_Humanos.ipynb): primero, visualizaremos un dataset de empleados ficticios de una empresa. Luego haremos análisis previos y luego entrenaremos y aplicaremos un modelo que con Machine Learning nos permita detectar cuando un empleado tiene alta probabilidad de renunciar a la empresa.
 
   _Herramientas: Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn_
 
