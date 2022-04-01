@@ -21,6 +21,9 @@ Este repositorio funciona como un índice de los proyectos que voy realizando en
 
   _Herramientas: Python, OpenAi GPT-3_
 
+- [Análisis de sentimiento de titulares de noticias](https://github.com/bernaberb/SentimientoTitulares/blob/main/Analisis_Sentimiento_Titulares_de_Noticias.ipynb): a través de WebScrapping y una libreria que detecta sentimientos de frases intentamos determinar si una noticia es positiva, negativa o neutra. Luego visualizamos la información obtenida.
+
+  _Herramientas: Python, PySentimiento, BeautifulSoup, Pandas, Seaborn, Matplotlib_
   
  ### Web
  
